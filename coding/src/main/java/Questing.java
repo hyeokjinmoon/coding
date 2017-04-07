@@ -4,7 +4,6 @@
 class Questing {
 	static int quest1(double d)  {
 		int i = (int) d;
-		
 		return i/2;
 	}
 
